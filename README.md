@@ -1,6 +1,6 @@
 
 In VS Code, press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on a Mac.
-# 6303-assignment-python-chapter6-starter
+# 6303-assignment-python-chapter8-starter
 The instructions for this assignment can be found at   
 (https://docs.google.com/document/d/1-xW1t3-lIemh4Ndj3wgSWxWPHCXJGduMmsDi1Or4JxU/edit#)  
  
